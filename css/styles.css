@@ -20,7 +20,7 @@ header { position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; }
 nav { width: 100%; height: 90px; background: rgba(0, 0, 0, 0.581); }
         nav>li { float: right; padding: 30px 50px; text-align: center; margin: 0; }
                 nav>li a { text-decoration: none; color: #fff; font-size: 20px; }
-                nav li a:hover { text-decoration: none; white; color: #fff; font-weight: bold; }
+                nav li a:hover { text-decoration: none; color: #fff; font-weight: bold; }
                         nav .About ul { right: 645px; top: 50px; }
                         nav .Ticket ul { right: 350px;  top: 50px; }
                         nav .Media ul { right: 300px;  top: 50px; }
@@ -85,11 +85,13 @@ nav { width: 100%; height: 90px; background: rgba(0, 0, 0, 0.581); }
 
 
 #contact-address {
-  width: 1920px;
-  height: 1080px;
+  width: 1200px;
+  height: 650px;
   position: relative;
   top: 530px;
-  font-family: 'Roboto'
+  font-family: 'Roboto';
+  background-color: rgba(255,255,255,.1);
+  backdrop-filter: brightness(1.1) blur(15px);
 }
 
 .section-header {
@@ -342,25 +344,6 @@ hr {
     width: 99%;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
