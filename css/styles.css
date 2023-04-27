@@ -217,9 +217,11 @@ body {
 
 
 
-#contact {
+#contact-address {
   width: 1920px;
   height: 1080px;
+  position: relative;
+  top: 530px;
 }
 
 .section-header {
@@ -286,6 +288,7 @@ textarea {
 /* Begin Right Contact Page */
 .direct-contact-container {
   max-width: 400px;
+  margin-left: 80px;
 }
 
 /* Location, Phone, Email Section */
