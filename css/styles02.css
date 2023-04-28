@@ -1,7 +1,7 @@
 * { margin: 0 auto; }
 ul, li { list-style: none; display: inline; transition: 1s; }
 a { color: white; text-decoration: none; }
-body { background-color: #141414;  align-items:center; justify-content:center; }
+body { background-color: #141414; align-items:center; justify-content:center; }
 
 /* main */
 #wrapper { position: relative; left: 0; top: 0; width: 1920px; height: auto; font-family: 'Roboto'; font-size: 14px; font-weight: 400; }
