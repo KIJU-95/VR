@@ -224,8 +224,8 @@ textarea {
   display: inline-block;
   height: 60px;
   width: 60px;
-  margin: 10px 3px;
-  line-height: 60px;
+  margin: 10px 1px;
+  line-height: 65px;
   border-radius: 50%;
   color: #fff;
   background-color: rgb(27,27,27);
